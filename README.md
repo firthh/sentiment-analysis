@@ -1,13 +1,7 @@
-# sentiment
+# sentiment-analysis
 
-A Clojure library designed to ... well, that part is up to you.
+Code for the Kaggle sentiment analysis competition
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+don't
